@@ -1,0 +1,11 @@
+C:\Users\INMAMAD3\source\repos\Dotnet-sample\test-dotnet\test-dotnet\bin\Debug\netcoreapp3.1\test-dotnet.exe
+C:\Users\INMAMAD3\source\repos\Dotnet-sample\test-dotnet\test-dotnet\bin\Debug\netcoreapp3.1\test-dotnet.deps.json
+C:\Users\INMAMAD3\source\repos\Dotnet-sample\test-dotnet\test-dotnet\bin\Debug\netcoreapp3.1\test-dotnet.runtimeconfig.json
+C:\Users\INMAMAD3\source\repos\Dotnet-sample\test-dotnet\test-dotnet\bin\Debug\netcoreapp3.1\test-dotnet.runtimeconfig.dev.json
+C:\Users\INMAMAD3\source\repos\Dotnet-sample\test-dotnet\test-dotnet\bin\Debug\netcoreapp3.1\test-dotnet.dll
+C:\Users\INMAMAD3\source\repos\Dotnet-sample\test-dotnet\test-dotnet\bin\Debug\netcoreapp3.1\test-dotnet.pdb
+C:\Users\INMAMAD3\source\repos\Dotnet-sample\test-dotnet\test-dotnet\obj\Debug\netcoreapp3.1\test-dotnet.csprojAssemblyReference.cache
+C:\Users\INMAMAD3\source\repos\Dotnet-sample\test-dotnet\test-dotnet\obj\Debug\netcoreapp3.1\test-dotnet.AssemblyInfoInputs.cache
+C:\Users\INMAMAD3\source\repos\Dotnet-sample\test-dotnet\test-dotnet\obj\Debug\netcoreapp3.1\test-dotnet.AssemblyInfo.cs
+C:\Users\INMAMAD3\source\repos\Dotnet-sample\test-dotnet\test-dotnet\obj\Debug\netcoreapp3.1\test-dotnet.dll
+C:\Users\INMAMAD3\source\repos\Dotnet-sample\test-dotnet\test-dotnet\obj\Debug\netcoreapp3.1\test-dotnet.pdb
