@@ -6,7 +6,7 @@ namespace test_dotnet
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Sample-Testconsole");
+			Console.WriteLine("Sample-Testconsole1");
 		}
 	}
 }
